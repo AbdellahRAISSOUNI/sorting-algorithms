@@ -1,4 +1,4 @@
-**Sorting Algorithms and Tower of Hanoi**
+# Sorting Algorithms and Tower of Hanoi
 
 This project provides implementations of various sorting algorithms and the Tower of Hanoi problem in C. The sorting algorithms included are bubble sort, selection sort, insertion sort, quicksort, and merge sort. The Tower of Hanoi algorithm is also implemented.
 
